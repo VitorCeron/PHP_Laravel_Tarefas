@@ -1,0 +1,17 @@
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+
+}
+
+html {
+    font-size: 0.95rem;
+}
+
+.col-md-2{
+    padding-left: 0px;
+}
+
+.alert {
+    margin-bottom: 0rem;
+}
